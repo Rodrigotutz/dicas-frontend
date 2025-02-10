@@ -7,7 +7,7 @@ Iniciar Aplicação
 - Importe as Dependências
 
 ```shell
-    npm intall
+    npm install
 ```
 
 - Inicie Servidor da Aplicação
