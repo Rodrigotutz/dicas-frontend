@@ -2,7 +2,7 @@
 
 Iniciar Aplicação
 
-- Faça Fork ou clone o Repositório
+- Faça o Fork ou Clone do Repositório
 
 - Importe as Dependências
 
